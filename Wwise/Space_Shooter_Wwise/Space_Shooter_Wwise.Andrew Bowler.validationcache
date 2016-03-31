@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="70">
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1564687943" DateHigh="30509792"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="125604096" DateHigh="30449199"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="125604096" DateHigh="30449199"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Attenuations\Default Work Unit.wwu" DateLow="710799727" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Control Surface Sessions\Default Work Unit.wwu" DateLow="710859087" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Conversion Settings\Default Work Unit.wwu" DateLow="710888327" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Conversion Settings\Factory Conversion Settings.wwu" DateLow="125604096" DateHigh="30449199"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Dynamic Dialogue\Default Work Unit.wwu" DateLow="710688565" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Effects\Default Work Unit.wwu" DateLow="710777626" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Effects\Factory Auro Headphone.wwu" DateLow="125604096" DateHigh="30449199"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Effects\Factory Effects.wwu" DateLow="125604096" DateHigh="30449199"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Effects\Factory iZotope Box Modeler.wwu" DateLow="3928580864" DateHigh="30450666"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Effects\Factory iZotope Delay.wwu" DateLow="85604096" DateHigh="30449199"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Effects\Factory iZotope Dynamics.wwu" DateLow="85604096" DateHigh="30449199"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Effects\Factory iZotope Filters.wwu" DateLow="85604096" DateHigh="30449199"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="85604096" DateHigh="30449199"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="85604096" DateHigh="30449199"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="85604096" DateHigh="30449199"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Effects\Factory McDSP Effects.wwu" DateLow="125604096" DateHigh="30449199"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Events\Default Work Unit.wwu" DateLow="2666443915" DateHigh="30509792"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Game Parameters\Default Work Unit.wwu" DateLow="710830441" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="125604096" DateHigh="30449199"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="710787646" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="710809762" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Mixing Sessions\Default Work Unit.wwu" DateLow="710909476" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Modulators\Default Work Unit.wwu" DateLow="710873299" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Presets\Default Work Unit.wwu" DateLow="710752584" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Queries\Default Work Unit.wwu" DateLow="710658523" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Queries\Factory Queries.wwu" DateLow="125604096" DateHigh="30449199"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\SoundBanks\Default Work Unit.wwu" DateLow="3225715647" DateHigh="30509792"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Soundcaster Sessions\Default Work Unit.wwu" DateLow="710845463" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Space_Shooter_Wwise.Andrew Bowler.wsettings" DateLow="2001753799" DateHigh="30509795"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Space_Shooter_Wwise.wproj" DateLow="871012216" DateHigh="30509628"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\States\Default Work Unit.wwu" DateLow="710742573" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Switches\Default Work Unit.wwu" DateLow="710727548" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\Triggers\Default Work Unit.wwu" DateLow="710673542" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="3020967982" DateHigh="30509627"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="125604096" DateHigh="30449199"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="125604096" DateHigh="30449199"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Attenuations\Default Work Unit.wwu" DateLow="710799727" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Control Surface Sessions\Default Work Unit.wwu" DateLow="710859087" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Conversion Settings\Default Work Unit.wwu" DateLow="710888327" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Conversion Settings\Factory Conversion Settings.wwu" DateLow="125604096" DateHigh="30449199"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Dynamic Dialogue\Default Work Unit.wwu" DateLow="710688565" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Effects\Default Work Unit.wwu" DateLow="710777626" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Effects\Factory Auro Headphone.wwu" DateLow="125604096" DateHigh="30449199"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Effects\Factory Effects.wwu" DateLow="125604096" DateHigh="30449199"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Effects\Factory iZotope Box Modeler.wwu" DateLow="3928580864" DateHigh="30450666"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Effects\Factory iZotope Delay.wwu" DateLow="85604096" DateHigh="30449199"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Effects\Factory iZotope Dynamics.wwu" DateLow="85604096" DateHigh="30449199"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Effects\Factory iZotope Filters.wwu" DateLow="85604096" DateHigh="30449199"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="85604096" DateHigh="30449199"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="85604096" DateHigh="30449199"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="85604096" DateHigh="30449199"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Effects\Factory McDSP Effects.wwu" DateLow="125604096" DateHigh="30449199"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Events\Default Work Unit.wwu" DateLow="3021185265" DateHigh="30509627"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Game Parameters\Default Work Unit.wwu" DateLow="710830441" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="125604096" DateHigh="30449199"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="710787646" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="710809762" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Mixing Sessions\Default Work Unit.wwu" DateLow="710909476" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Modulators\Default Work Unit.wwu" DateLow="710873299" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Presets\Default Work Unit.wwu" DateLow="710752584" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Queries\Default Work Unit.wwu" DateLow="710658523" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Queries\Factory Queries.wwu" DateLow="125604096" DateHigh="30449199"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\SoundBanks\Default Work Unit.wwu" DateLow="3021072970" DateHigh="30509627"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Soundcaster Sessions\Default Work Unit.wwu" DateLow="710845463" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Space_Shooter_Wwise.Andrew Bowler.wsettings" DateLow="1402950790" DateHigh="30509629"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Space_Shooter_Wwise.wproj" DateLow="871012216" DateHigh="30509628"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\States\Default Work Unit.wwu" DateLow="710742573" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Switches\Default Work Unit.wwu" DateLow="710727548" DateHigh="30509626"/>
+	<ValidationCacheItem File="C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\Triggers\Default Work Unit.wwu" DateLow="710673542" DateHigh="30509626"/>
+</ValidationCache>

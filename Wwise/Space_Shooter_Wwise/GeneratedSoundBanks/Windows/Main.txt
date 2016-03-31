@@ -1,0 +1,14 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1018769582	Destroy_Ship			\Default Work Unit\Destroy_Ship	
+	1432716332	Game_Over			\Default Work Unit\Game_Over	
+	1730369216	Fire_Weapon			\Default Work Unit\Fire_Weapon	
+	2038426315	Destroy_Asteroid			\Default Work Unit\Destroy_Asteroid	
+	2932040671	Play_Music			\Default Work Unit\Play_Music	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	58326292	super_secret_sound	C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\.cache\Windows\SFX\super_secret_sound_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\super_secret_sound		523264
+	167174232	explosion_player	C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\.cache\Windows\SFX\explosion_player_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\explosion_player		325944
+	168710637	weapon_player	C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\.cache\Windows\SFX\weapon_player_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\weapon_player		65200
+	303614601	music_background	C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\.cache\Windows\SFX\music_background_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\music_background		2335840
+	1068871957	explosion_asteroid	C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\.cache\Windows\SFX\explosion_asteroid_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\explosion_asteroid		148624
+

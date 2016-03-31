@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{B62768A8-3E67-4322-97C3-8CD47CB7B501}" SchemaVersion="70">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{B62768A8-3E67-4322-97C3-8CD47CB7B501}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Game_Over" ID="{BDB12A03-8E2D-450B-B4CB-79EEC3736FB7}">
+					<ChildrenList>
+						<Action Name="Play" ID="{F52A0B7D-4AD8-4B97-A922-5F1321DF2FA9}" ShortID="529166414" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{F5878D6C-FE39-4D04-BF9F-06629A300EC7}" Global="false">
+									<ObjectRef Name="super_secret_sound" ID="{301CE888-0BFE-438C-AF61-D49DBFDF540A}" WorkUnitID="{65F3162B-42CF-4CB1-B24C-1517A3147C54}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Fire_Weapon" ID="{67ACA9E9-3AC5-4A00-B512-252A0C886965}">
+					<ChildrenList>
+						<Action Name="Play" ID="{95F7D1A0-A463-4A48-8D67-F97F16D9CFD1}" ShortID="509667846" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{6623F3DB-F57B-4A7A-8EC6-E83716D5C8F7}" Global="false">
+									<ObjectRef Name="weapon_player" ID="{150187BA-3204-486B-853D-B47D11CC07D4}" WorkUnitID="{65F3162B-42CF-4CB1-B24C-1517A3147C54}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Destroy_Ship" ID="{631170DE-13BB-4527-866E-D9DA56E5A598}">
+					<ChildrenList>
+						<Action Name="Play" ID="{AB63965F-6FDE-4D45-91EF-2AB66EEE18CA}" ShortID="396325955" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{823B4877-A917-4BA2-9A88-9C2EBDD96882}" Global="false">
+									<ObjectRef Name="explosion_player" ID="{452DE0E2-1B55-43C9-8F36-D039B3605CBB}" WorkUnitID="{65F3162B-42CF-4CB1-B24C-1517A3147C54}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Destroy_Asteroid" ID="{3C7A4420-5D71-411E-B659-C06922FED81F}">
+					<ChildrenList>
+						<Action Name="Play" ID="{39176817-D14F-4528-9F6E-53C1A45B655E}" ShortID="399736859" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{EC36457A-9E64-4C58-8BF5-F092558FD05E}" Global="false">
+									<ObjectRef Name="explosion_asteroid" ID="{F63D933D-E34C-46FA-AB46-AF5B275D1F41}" WorkUnitID="{65F3162B-42CF-4CB1-B24C-1517A3147C54}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Music" ID="{E3A99A17-AC12-4FFA-BAA8-5621F7FBF5D5}">
+					<ChildrenList>
+						<Action Name="Play" ID="{321B458A-341A-4964-9D1A-A0AD9B08956F}" ShortID="146103533" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{9FB608F1-2549-4F22-900A-356464ABA39C}" Global="false">
+									<ObjectRef Name="music_background" ID="{BA5CE600-7C8D-453E-8BE1-28F3BBDB318F}" WorkUnitID="{65F3162B-42CF-4CB1-B24C-1517A3147C54}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
