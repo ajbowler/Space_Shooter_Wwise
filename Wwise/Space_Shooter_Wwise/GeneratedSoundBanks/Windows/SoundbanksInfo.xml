@@ -11,19 +11,6 @@
 	<StreamedFiles/>
 	<MediaFilesNotInAnyBank/>
 	<SoundBanks>
-		<SoundBank Id="1069431850" Language="SFX">
-			<ShortName>Player</ShortName>
-			<Path>Player.bnk</Path>
-			<IncludedEvents>
-				<Event Id="1018769582" Name="Destroy_Ship"/>
-			</IncludedEvents>
-			<IncludedMemoryFiles>
-				<File Id="167174232" Language="SFX">
-					<ShortName>explosion_player.wav</ShortName>
-					<Path>SFX\explosion_player_9E69E797.wem</Path>
-				</File>
-			</IncludedMemoryFiles>
-		</SoundBank>
 		<SoundBank Id="1355168291" Language="SFX">
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
@@ -38,6 +25,19 @@
 				<File Id="168710637" Language="SFX">
 					<ShortName>weapon_player.wav</ShortName>
 					<Path>SFX\weapon_player_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2942549272" Language="SFX">
+			<ShortName>GameOverText</ShortName>
+			<Path>GameOverText.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1432716332" Name="Game_Over"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="885573312" Language="SFX">
+					<ShortName>super_secret_sound.wav</ShortName>
+					<Path>SFX\super_secret_sound_9E69E797.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>

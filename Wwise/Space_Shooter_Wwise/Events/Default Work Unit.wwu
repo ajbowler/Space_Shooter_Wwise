@@ -3,17 +3,6 @@
 	<Events>
 		<WorkUnit Name="Default Work Unit" ID="{B62768A8-3E67-4322-97C3-8CD47CB7B501}" PersistMode="Standalone">
 			<ChildrenList>
-				<Event Name="Game_Over" ID="{BDB12A03-8E2D-450B-B4CB-79EEC3736FB7}">
-					<ChildrenList>
-						<Action Name="Play" ID="{F52A0B7D-4AD8-4B97-A922-5F1321DF2FA9}" ShortID="529166414" Type="Play" Scope="One" Global="false">
-							<ElementList>
-								<Element ID="{F5878D6C-FE39-4D04-BF9F-06629A300EC7}" Global="false">
-									<ObjectRef Name="super_secret_sound" ID="{301CE888-0BFE-438C-AF61-D49DBFDF540A}" WorkUnitID="{65F3162B-42CF-4CB1-B24C-1517A3147C54}"/>
-								</Element>
-							</ElementList>
-						</Action>
-					</ChildrenList>
-				</Event>
 				<Event Name="Fire_Weapon" ID="{67ACA9E9-3AC5-4A00-B512-252A0C886965}">
 					<ChildrenList>
 						<Action Name="Play" ID="{95F7D1A0-A463-4A48-8D67-F97F16D9CFD1}" ShortID="509667846" Type="Play" Scope="One" Global="false">

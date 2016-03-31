@@ -4,6 +4,7 @@ using System.Collections;
 public class GameController : MonoBehaviour
 {
     public GameObject hazard;
+    public GameObject gameOverGUI;
     public Vector3 spawnValues;
     public int hazardCount;
     public float spawnWait;
@@ -75,6 +76,7 @@ public class GameController : MonoBehaviour
     public void GameOver()
     {
         gameOverText.text = "Game Over";
+        Instantiate(gameOverGUI);
         gameOver = true;
     }
 }

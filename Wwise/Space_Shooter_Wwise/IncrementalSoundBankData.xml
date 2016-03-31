@@ -5,6 +5,7 @@
 			<Bank Name="Asteroid" Hash="1099322091" StreamHash="157587662" Timestamp="131038608620583907"/>
 			<Bank Name="Bolt" Hash="1746283297" StreamHash="157587662" Timestamp="131038613860879581"/>
 			<Bank Name="GameController" Hash="3840240223" StreamHash="157587662" Timestamp="131038602661901347"/>
+			<Bank Name="GameOverText" Hash="1960612283" StreamHash="157587662" Timestamp="131038644630980988"/>
 			<Bank Name="Init" Hash="3958984000" StreamHash="157587662" Timestamp="131037853038530963"/>
 			<Bank Name="Main" Hash="1331322788" StreamHash="157587662" Timestamp="131038601251039592"/>
 			<Bank Name="Player" Hash="3148110506" StreamHash="157587662" Timestamp="131038604307617312"/>
