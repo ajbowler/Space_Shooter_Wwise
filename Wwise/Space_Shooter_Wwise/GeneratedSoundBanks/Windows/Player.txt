@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1018769582	Destroy_Ship			\Default Work Unit\Destroy_Ship	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	167174232	explosion_player	C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\.cache\Windows\SFX\explosion_player_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\explosion_player		325944
+

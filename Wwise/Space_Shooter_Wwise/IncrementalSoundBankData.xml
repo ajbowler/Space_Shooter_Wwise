@@ -2,8 +2,11 @@
 <IncrementalBankBuild Version="4" Flags="878078161">
 	<Platform GUID="{4617CED9-8693-44F8-821C-0D0409033E2B}">
 		<Language ID="0">
+			<Bank Name="Asteroid" Hash="1099322091" StreamHash="157587662" Timestamp="131038608620583907"/>
+			<Bank Name="GameController" Hash="3840240223" StreamHash="157587662" Timestamp="131038602661901347"/>
 			<Bank Name="Init" Hash="3958984000" StreamHash="157587662" Timestamp="131037853038530963"/>
-			<Bank Name="Main" Hash="3229966029" StreamHash="157587662" Timestamp="131038562216844744"/>
+			<Bank Name="Main" Hash="1331322788" StreamHash="157587662" Timestamp="131038601251039592"/>
+			<Bank Name="Player" Hash="3148110506" StreamHash="157587662" Timestamp="131038604307617312"/>
 		</Language>
 	</Platform>
 </IncrementalBankBuild>

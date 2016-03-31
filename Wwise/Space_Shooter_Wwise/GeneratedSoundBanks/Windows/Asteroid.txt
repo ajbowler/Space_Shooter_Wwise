@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2038426315	Destroy_Asteroid			\Default Work Unit\Destroy_Asteroid	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	1068871957	explosion_asteroid	C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\.cache\Windows\SFX\explosion_asteroid_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\explosion_asteroid		148624
+

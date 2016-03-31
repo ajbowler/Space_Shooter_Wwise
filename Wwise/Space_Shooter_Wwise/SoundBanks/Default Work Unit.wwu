@@ -3,13 +3,23 @@
 	<SoundBanks>
 		<WorkUnit Name="Default Work Unit" ID="{37C384F3-F069-4C09-8BB3-E87D28771D3A}" PersistMode="Standalone">
 			<ChildrenList>
-				<SoundBank Name="Main" ID="{C44ACC45-7017-4090-8F34-87A6B11CD888}">
+				<SoundBank Name="GameController" ID="{C44ACC45-7017-4090-8F34-87A6B11CD888}">
 					<ObjectInclusionList>
-						<ObjectRef Name="Game_Over" ID="{BDB12A03-8E2D-450B-B4CB-79EEC3736FB7}" WorkUnitID="{B62768A8-3E67-4322-97C3-8CD47CB7B501}" Filter="7" Origin="Manual"/>
 						<ObjectRef Name="Play_Music" ID="{E3A99A17-AC12-4FFA-BAA8-5621F7FBF5D5}" WorkUnitID="{B62768A8-3E67-4322-97C3-8CD47CB7B501}" Filter="7" Origin="Manual"/>
-						<ObjectRef Name="Destroy_Asteroid" ID="{3C7A4420-5D71-411E-B659-C06922FED81F}" WorkUnitID="{B62768A8-3E67-4322-97C3-8CD47CB7B501}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Player" ID="{5AA0589C-3D1F-49BF-AA4B-67E8388EA975}">
+					<ObjectInclusionList>
 						<ObjectRef Name="Destroy_Ship" ID="{631170DE-13BB-4527-866E-D9DA56E5A598}" WorkUnitID="{B62768A8-3E67-4322-97C3-8CD47CB7B501}" Filter="7" Origin="Manual"/>
-						<ObjectRef Name="Fire_Weapon" ID="{67ACA9E9-3AC5-4A00-B512-252A0C886965}" WorkUnitID="{B62768A8-3E67-4322-97C3-8CD47CB7B501}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Asteroid" ID="{94C71C7D-D2FC-4569-9E13-B1D4BDBA3473}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Destroy_Asteroid" ID="{3C7A4420-5D71-411E-B659-C06922FED81F}" WorkUnitID="{B62768A8-3E67-4322-97C3-8CD47CB7B501}" Filter="7" Origin="Manual"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>

@@ -1,50 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
 	<RootPaths>
-		<ProjectRoot>C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\</ProjectRoot>
-		<SourceFilesRoot>C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\.cache\Windows\</SourceFilesRoot>
-		<SoundBanksRoot>C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ProjectRoot>C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\</ProjectRoot>
+		<SourceFilesRoot>C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\GeneratedSoundBanks\Windows\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>C:\School_Stuff\Spring 2016\COM S 437\Wwise\Space_Shooter_Wwise\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
 	<MediaFilesNotInAnyBank/>
 	<SoundBanks>
-		<SoundBank Id="1355168291" Language="SFX">
-			<ShortName>Init</ShortName>
-			<Path>Init.bnk</Path>
-		</SoundBank>
-		<SoundBank Id="3161908922" Language="SFX">
-			<ShortName>Main</ShortName>
-			<Path>Main.bnk</Path>
+		<SoundBank Id="1069431850" Language="SFX">
+			<ShortName>Player</ShortName>
+			<Path>Player.bnk</Path>
 			<IncludedEvents>
-				<Event Id="2038426315" Name="Destroy_Asteroid"/>
 				<Event Id="1018769582" Name="Destroy_Ship"/>
-				<Event Id="1730369216" Name="Fire_Weapon"/>
-				<Event Id="1432716332" Name="Game_Over"/>
-				<Event Id="2932040671" Name="Play_Music"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
-				<File Id="58326292" Language="SFX">
-					<ShortName>super_secret_sound.wav</ShortName>
-					<Path>SFX\super_secret_sound_9E69E797.wem</Path>
-				</File>
 				<File Id="167174232" Language="SFX">
 					<ShortName>explosion_player.wav</ShortName>
 					<Path>SFX\explosion_player_9E69E797.wem</Path>
 				</File>
-				<File Id="168710637" Language="SFX">
-					<ShortName>weapon_player.wav</ShortName>
-					<Path>SFX\weapon_player_9E69E797.wem</Path>
-				</File>
-				<File Id="303614601" Language="SFX">
-					<ShortName>music_background.wav</ShortName>
-					<Path>SFX\music_background_4B8CC0C5.wem</Path>
-				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3152561434" Language="SFX">
+			<ShortName>Asteroid</ShortName>
+			<Path>Asteroid.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2038426315" Name="Destroy_Asteroid"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
 				<File Id="1068871957" Language="SFX">
 					<ShortName>explosion_asteroid.wav</ShortName>
 					<Path>SFX\explosion_asteroid_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="4251679307" Language="SFX">
+			<ShortName>GameController</ShortName>
+			<Path>GameController.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2932040671" Name="Play_Music"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="303614601" Language="SFX">
+					<ShortName>music_background.wav</ShortName>
+					<Path>SFX\music_background_4B8CC0C5.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>
