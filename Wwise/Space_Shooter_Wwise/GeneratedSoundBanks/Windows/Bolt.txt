@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1730369216	Fire_Weapon			\Default Work Unit\Fire_Weapon	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	168710637	weapon_player	C:\School_Stuff\Spring 2016\COM S 437\Space_Shooter_Wwise\Wwise\Space_Shooter_Wwise\.cache\Windows\SFX\weapon_player_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\weapon_player		65200
+

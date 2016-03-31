@@ -28,6 +28,19 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
+		<SoundBank Id="1711168008" Language="SFX">
+			<ShortName>Bolt</ShortName>
+			<Path>Bolt.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1730369216" Name="Fire_Weapon"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="168710637" Language="SFX">
+					<ShortName>weapon_player.wav</ShortName>
+					<Path>SFX\weapon_player_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
 		<SoundBank Id="3152561434" Language="SFX">
 			<ShortName>Asteroid</ShortName>
 			<Path>Asteroid.bnk</Path>

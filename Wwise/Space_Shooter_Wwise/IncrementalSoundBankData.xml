@@ -3,6 +3,7 @@
 	<Platform GUID="{4617CED9-8693-44F8-821C-0D0409033E2B}">
 		<Language ID="0">
 			<Bank Name="Asteroid" Hash="1099322091" StreamHash="157587662" Timestamp="131038608620583907"/>
+			<Bank Name="Bolt" Hash="1746283297" StreamHash="157587662" Timestamp="131038613860879581"/>
 			<Bank Name="GameController" Hash="3840240223" StreamHash="157587662" Timestamp="131038602661901347"/>
 			<Bank Name="Init" Hash="3958984000" StreamHash="157587662" Timestamp="131037853038530963"/>
 			<Bank Name="Main" Hash="1331322788" StreamHash="157587662" Timestamp="131038601251039592"/>

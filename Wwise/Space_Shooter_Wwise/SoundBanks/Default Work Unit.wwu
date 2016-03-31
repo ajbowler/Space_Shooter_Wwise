@@ -24,6 +24,13 @@
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
 				</SoundBank>
+				<SoundBank Name="Bolt" ID="{56D6F4A4-225D-4B81-8D00-358051B90498}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Fire_Weapon" ID="{67ACA9E9-3AC5-4A00-B512-252A0C886965}" WorkUnitID="{B62768A8-3E67-4322-97C3-8CD47CB7B501}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
 			</ChildrenList>
 		</WorkUnit>
 	</SoundBanks>
