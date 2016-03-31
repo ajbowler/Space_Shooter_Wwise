@@ -36,6 +36,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Game_Over" ID="{35B75DED-1999-4F33-A55C-6602B7B45350}">
+					<ChildrenList>
+						<Action Name="Play" ID="{A416291B-C686-4016-847B-FC71500B8704}" ShortID="221977323" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{9FFDE827-6037-45FF-A2BE-353720FB0A14}" Global="false">
+									<ObjectRef Name="super_secret_sound" ID="{1ADB9833-5E57-412A-84BF-BAD271C6E7D6}" WorkUnitID="{65F3162B-42CF-4CB1-B24C-1517A3147C54}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

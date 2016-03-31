@@ -24,6 +24,13 @@
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
 				</SoundBank>
+				<SoundBank Name="GameOverText" ID="{CFD11BD3-FCFB-47FC-9391-2593D80F7822}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Game_Over" ID="{35B75DED-1999-4F33-A55C-6602B7B45350}" WorkUnitID="{B62768A8-3E67-4322-97C3-8CD47CB7B501}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
 			</ChildrenList>
 		</WorkUnit>
 	</SoundBanks>
