@@ -48,25 +48,6 @@
 						<ActiveSource Name="explosion_asteroid" ID="{5D25F044-A517-4C57-9FCE-8FCDD3142DFC}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
-				<Sound Name="explosion_player" ID="{452DE0E2-1B55-43C9-8F36-D039B3605CBB}" ShortID="252266489" Type="SoundFX">
-					<ReferenceList>
-						<Reference Name="Conversion">
-							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{7E060C81-5FA1-4A06-A3E6-9696805CFF1A}"/>
-						</Reference>
-						<Reference Name="OutputBus">
-							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E9DCE945-178B-4090-981E-29F8617A4FBE}"/>
-						</Reference>
-					</ReferenceList>
-					<ChildrenList>
-						<AudioFileSource Name="explosion_player" ID="{B450D4E8-0A64-4C8E-AFB9-72CBA8B5FCA4}" ShortID="167174232">
-							<Language>SFX</Language>
-							<AudioFile>explosion_player.wav</AudioFile>
-						</AudioFileSource>
-					</ChildrenList>
-					<ActiveSourceList>
-						<ActiveSource Name="explosion_player" ID="{B450D4E8-0A64-4C8E-AFB9-72CBA8B5FCA4}" Platform="Linked"/>
-					</ActiveSourceList>
-				</Sound>
 				<Sound Name="music_background" ID="{BA5CE600-7C8D-453E-8BE1-28F3BBDB318F}" ShortID="1063867038" Type="SoundFX">
 					<PropertyList>
 						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>

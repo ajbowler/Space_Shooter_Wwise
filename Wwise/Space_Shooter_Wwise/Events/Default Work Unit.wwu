@@ -25,17 +25,6 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="Destroy_Ship" ID="{631170DE-13BB-4527-866E-D9DA56E5A598}">
-					<ChildrenList>
-						<Action Name="Play" ID="{AB63965F-6FDE-4D45-91EF-2AB66EEE18CA}" ShortID="396325955" Type="Play" Scope="One" Global="false">
-							<ElementList>
-								<Element ID="{823B4877-A917-4BA2-9A88-9C2EBDD96882}" Global="false">
-									<ObjectRef Name="explosion_player" ID="{452DE0E2-1B55-43C9-8F36-D039B3605CBB}" WorkUnitID="{65F3162B-42CF-4CB1-B24C-1517A3147C54}"/>
-								</Element>
-							</ElementList>
-						</Action>
-					</ChildrenList>
-				</Event>
 				<Event Name="Destroy_Asteroid" ID="{3C7A4420-5D71-411E-B659-C06922FED81F}">
 					<ChildrenList>
 						<Action Name="Play" ID="{39176817-D14F-4528-9F6E-53C1A45B655E}" ShortID="399736859" Type="Play" Scope="One" Global="false">
